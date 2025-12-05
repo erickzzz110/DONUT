@@ -1,0 +1,37 @@
+ 
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+            text-align: center;
+            -webkit-text-fill-color: rgb(255, 255, 255);
+            -webkit-text-size-adjust: 200pc;
+            background-image: url(rubens-phaeton-1.jpg);
+            padding: 200px;
+            text-rendering: auto;
+            -webkit-text-size-adjust: 100px;
+        }
+        .question {
+            font-size: 20px;
+            margin-bottom: 20px;
+           -webkit-text-fill-color: aliceblue;
+           
+        }
+        .options button {
+            display: block;
+            margin: 10px auto;
+            padding: 50px 50px;
+            font-size: 20px;
+            -webkit-text-fill-color: black;
+            background-image: url(z.jpg);
+            font-family: 'Times New Roman', Times, serif;
+            font-size: x-large;
+            
+        }
+        #score {
+            margin-top: 20px;
+            font-weight: bold;
+             background-image: url(300.gif);
+             border-image-width: 100px;
+        }
+        .alert {
+            background-image: url(300.gif);
+        }
